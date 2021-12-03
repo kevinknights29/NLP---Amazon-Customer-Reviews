@@ -15,7 +15,7 @@ El conjunto de datos contiene el texto de revisión del cliente con los metadato
 * Una colección de reseñas que han sido identificadas como no conformes con respecto a las políticas de Amazon. Esto tiene la intención de proporcionar un conjunto de datos de referencia para la investigación sobre la detección de revisiones promocionales o sesgadas. (varios miles de comentarios de clientes). Esta parte del conjunto de datos se distribuye por separado y está disponible previa solicitud; comuníquese con la dirección de correo electrónico a continuación si está interesado en obtener este conjunto de datos.
 
 
-##Conclusiones del Proyecto:
+## Conclusiones del Proyecto:
 * El modelo aun puede ser optimizado mejorando sus hyperparametros.
 * Balanceando el dataset podemos esperar mejores resultados.
 * El dataset de entrenamiento fue delimitado por motivos de recursos computacionales, podemos estimar que con un mayor numero de registro y columnas del DTM el modelo tendrá un mayor poder predictivo.
