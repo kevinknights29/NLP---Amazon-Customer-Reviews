@@ -1,8 +1,0 @@
-Esta secccion contine un zip con la data ya procesada para reducir tiempos de computo.
-
-Archivos incluidos:
-* stemmed_data_s0.2_amazon_reviews_us_Electronics_v1_00.csv (Archivo resultante del stemming)
-
-* dtm_s0.2_c15000_amazon_reviews_us_Electronics_v1_00.csv (Archivo resultante del Document Term Matrix con las columnas mas relevantes)
-
-* grouped_dtm_s0.2_c15000_amazon_reviews_us_Electronics_v1_00.csv (Archivo resultante de la agrupacion de caracteristicas por clase)
